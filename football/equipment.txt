@@ -1,1 +1,0 @@
-Football uses ball, goalpost, and jersey.
